@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74647806/191553349-007cad44-5847-41bc-a9d4-16cd2bf79576.png" width="400">
 
-## Projekt Astra, Göschenen
+## Projekt Galenstock and Rhonestock, Göschenen
 
 
 
