@@ -2,7 +2,7 @@
 
 ## Projekt Galenstock and Rhonestock, Göschenen
 
-
+![image](https://user-images.githubusercontent.com/74647806/191556446-bbcae7cb-1f1e-47cf-b809-3ce5d3c130c5.png)
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
