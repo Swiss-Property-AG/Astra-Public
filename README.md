@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/74647806/191556446-bbcae7cb-1f1e-47cf-b809-3ce5d3c130c5.png)
 
+## You can view the model on [bldrs.ai](https://bldrs.ai/share/v/gh/Swiss-Property-AG/GahlenstockRhonestock-Public/main/GahlenstockRhonestock.ifc#i:1318194183::c:6.18,28.88,58.44,25.5,9.26,15.82)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
